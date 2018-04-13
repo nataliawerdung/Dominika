@@ -9,8 +9,9 @@
     justify-content: space-evenly;
 }
 
-header image:first-child{
-    margin-left: 5px;
+header img:first-child{
+    margin-right: auto;
+    margin-left: 20px;
 }
 
 .header-image{
